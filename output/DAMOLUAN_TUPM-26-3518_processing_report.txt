@@ -1,0 +1,11 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: DAMOLUAN
+Student ID: TUPM-26-3518
+Seed Digit: 8
+ID Sum: 25
+Verification Value: 208
+Dataset Sample Size: 75
+Valid Records: 75
+Average Global Active Power: 4.040JSON File: DAMOLUAN_TUPM-26-3518_record.json
+Backup File: DAMOLUAN_TUPM-26-3518_record.csv

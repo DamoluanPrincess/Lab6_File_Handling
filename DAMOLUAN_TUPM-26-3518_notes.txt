@@ -1,0 +1,5 @@
+Student: DAMOLUAN
+Student ID: TUPM-26-3518
+Seed digit: 8
+ID Sum: 25
+Verification Value: 208
