@@ -1,0 +1,42 @@
+CYBERSECURITY INCIDENT REPORT
+=============================================
+Student: DAMOLUAN
+Student ID: TUPM-26-3518
+Target Year: 2023
+
+DATASET INFORMATION
+---------------------------------------------
+Total records: 3000
+Incidents in target year: 315
+Invalid year records: 0
+
+INCIDENT COUNT PER ATTACK TYPE
+---------------------------------------------
+DDoS: 51
+Malware: 55
+Man-in-the-Middle: 50
+Phishing: 46
+Ransomware: 50
+SQL Injection: 63
+
+FINANCIAL LOSS ANALYSIS
+---------------------------------------------
+Total financial loss: $15958.08 million
+Average financial loss: $50.66 million
+Valid financial loss records: 315
+Invalid financial loss records: 0
+
+FIVE COSTLIEST INCIDENTS
+---------------------------------------------
+1. Malware - $99.72 million
+2. Man-in-the-Middle - $99.71 million
+3. DDoS - $99.64 million
+4. DDoS - $99.62 million
+5. SQL Injection - $99.19 million
+
+GENERATED FILES
+---------------------------------------------
+Filtered CSV: output\cybersecurity_filtered.csv
+JSON Summary: output\cybersecurity_summary.json
+JSON Backup: backup\cybersecurity_summary.json
+Backup verified: True

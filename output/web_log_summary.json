@@ -1,0 +1,35 @@
+{
+    "student_name": "DAMOLUAN",
+    "student_id": "TUPM-26-3518",
+    "records_processed": 1025,
+    "target_status_class": "2xx",
+    "records_in_target_class": 855,
+    "invalid_records": 0,
+    "count_per_status_code": {
+        "200": 847,
+        "206": 8
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "GET /login.php HTTP/1.1",
+            "requests": 105
+        },
+        {
+            "url": "GET /home.php HTTP/1.1",
+            "requests": 91
+        },
+        {
+            "url": "GET /css/normalize.css HTTP/1.1",
+            "requests": 39
+        },
+        {
+            "url": "GET /css/bootstrap.min.css HTTP/1.1",
+            "requests": 38
+        },
+        {
+            "url": "GET /css/font-awesome.min.css HTTP/1.1",
+            "requests": 37
+        }
+    ],
+    "filtered_csv_file": "output\\web_log_filtered.csv"
+}
